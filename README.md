@@ -37,7 +37,7 @@ Welcome to the repository showcasing the projects I completed during my internsh
 
 I received a certificate of completion from CodSoft for successfully completing this internship program. You can view the certificate below:
 
-![Certificate](./path_to_your_certificate_image.jpg)
+![[Certificate](./path_to_your_certificate_image.jpg](https://www.linkedin.com/posts/kailash-jat-45bb39227_internship-pythonprogramming-codsoft-activity-7227626553570918400-XZHp?utm_source=share&utm_medium=member_desktop)
 
 ## Acknowledgments
 
@@ -45,21 +45,7 @@ I would like to extend my gratitude to the entire team at CodSoft for providing 
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [Your GitHub Profile](https://github.com/your-profile)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/kailash-jat-45bb39227)
+- GitHub: [Your GitHub Profile](https://github.com/kc932)
 
----
 
-### How to Use
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Explore the code and run the applications as per the provided instructions in each project folder.
-
-Feel free to fork this repository and contribute!
-
----
-
-You can place the certificate image in the repository and update the `![Certificate](./path_to_your_certificate_image.jpg)` line with the correct file path to display the certificate in your README.
-
-Let me know if you need any adjustments!
